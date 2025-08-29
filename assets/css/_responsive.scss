@@ -1,0 +1,160 @@
+@media only screen and (max-width: 1100px){
+  .happy{
+    justify-content: center;
+    img{
+      width: 65%;
+    }
+  }
+  .happiness-card{
+    h3{
+      font-size: 40px;
+    }
+  }
+  .tractor {
+    justify-content: center;
+    img{
+      width: 65%;
+    }
+  }
+  .office{
+    justify-content: center;
+    display: flex;
+    img{
+      width: 65%;
+    }
+  }
+  .office-card{
+    transform: translate(370px, -210px);
+  }
+  .coach {
+    padding: 0 20px;
+    width: 40%;
+  }
+  .coach-info {
+    width: 55%;
+  }
+  .coach-benefits{
+    width: 80%;
+    p{
+      margin: 20px 0;
+    }
+  }
+}
+@media only screen and (max-width: 900px) {
+  .happiness-card {
+    transform: translate(124px, -195px);
+  }
+  .sec-1 {
+    background: #FFFFFF;
+    background: linear-gradient(90deg, rgb(255, 255, 255) 58%, rgb(194, 161, 131) 59%, rgb(194, 161, 131) 97%, rgb(255, 255, 255) 78%, rgb(255, 255, 255) 94%);
+  }
+  .tractor-card{
+    width: 55%;
+    transform: translate(360px, -162px);
+  }
+  .tractor{
+    img{
+      width: 85%;
+    }
+  }
+  .sec-2 {
+    padding: 50px 0;
+    background: #FFFFFF;
+    background: linear-gradient(90deg, rgb(255, 255, 255) 7%, rgb(254, 199, 34) 4%, rgb(254, 199, 34) 34%, rgb(254, 199, 34) 45%, rgb(255, 255, 255) 30%, rgb(255, 255, 255) 52%);
+  }
+  .office{
+    img{
+      width: 85%;
+    }
+  }
+  .office-card {
+    transform: translate(305px, -210px);
+    width: 65%;
+  }
+  .coach {
+    padding: 0 20px;
+    width: 48%;
+  }
+  .coach-info {
+    width: 48%;
+  }
+  .coach-benefits{
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 850px) {
+  .coach {
+    width: 75%;
+    margin: auto;
+  }
+  .coach-info {
+    width: 75%;
+    margin: auto;
+  }
+}
+@media only screen and (max-width: 750px) {
+  .happy img {
+    width: 85%;
+  }
+  .happiness-card {
+    transform: translate(170px, -170px);
+    width: 60%;
+  }
+  .tractor-card {
+    width: 65%;
+    transform: translate(215px, -162px);
+  }
+  .office-card {
+    transform: translate(155px, -210px);
+    width: 78%;
+    h3{
+      font-size: 50px;
+    }
+  }
+}
+@media only screen and (max-width: 650px) {
+  .happiness-card {
+    transform: translate(130px, -170px);
+  }
+  .tractor-card {
+    width: 65%;
+    transform: translate(186px, -162px);
+    h3{
+      font-size: 45px;
+    }
+  }
+  .office-card {
+    transform: translate(70px, -140px);
+    width: 78%;
+  }
+}
+@media only screen and (max-width: 550px) {
+  .happiness-card {
+    transform: translate(80px, -170px);
+    width: 70%;
+  }
+  .tractor-card {
+    width: 80%;
+    transform: translate(105px, -85px);
+  }
+  .office-card {
+    transform: translate(60px, -140px);
+    width: 78%;
+    h3{
+      font-size: 40px;
+    }
+  }
+  .coach {
+    width: 100%;
+    margin: auto;
+  }
+  .coach-info {
+    width: 98%;
+    margin: auto;
+  }
+  .sec-4{
+    h3{
+      font-size: 45px;
+    }
+  }
+}
