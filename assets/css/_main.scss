@@ -152,4 +152,118 @@ h3{
 
   }
 }
+.sec-5{
+  background-image: url("https://images01.nicepage.com/c461c07a441a5d220e8feb1a/69e5d54054fb5258b6602405/fgfg-min.jpg");
+  height: 600px;
+  width: 100%;
+  background-size: cover;
+  padding: 70px 0;
+}
+.contact-cards{
+  background-color:white ;
+  width: 24%;
+  text-align: center;
+  padding: 20px;
+  i{
+    color: #778075;
+    font-size: 75px;
+  }
+  h3{
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    padding: 30px 0;
+  }
+  p{
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;
+    padding: 15px 30px;
+  }
+}
+.contact-cards2{
+  background-color:white ;
+  width: 24%;
+  text-align: center;
+  padding: 30px;
+  i{
+    color: #778075;
+    font-size: 75px;
+  }
+  h3{
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    padding: 30px 0;
+  }
+  p{
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;
+    padding: 15px 30px;
+  }
+}
+.sec-6{
+  background-color: #1A1A1A;
+}
+.contact-info{
+  background-color: black;
+  color: white;
+  width: 48%;
+  transform: translate(0px, -170px);
+  padding: 30px;
+  h3{
+    font-size: 48px;
+    font-family: "Roboto", sans-serif;
+  }
+  label{
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    display: block;
+    padding: 15px 0;
+  }
+  input{
+    width: 100%;
+    border: none;
+    border-bottom: 3px solid white;
+    background-color: black;
+  }
+  textarea{
+    width: 466px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-bottom: 3px solid white;
+  }
+  button{
+    color: black;
+    background-color: white;
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;
+    padding: 10px 30px;
+    border: none;
+    width: 100%;
+    margin: 20px 0;
+  }
+  p{
+    font-size: 18px ;
+    font-family: "Open Sans", sans-serif;
+    color: white;
+    padding: 20px 0;
+  }
+  a{
+    color: white;
+    text-decoration: underline;
+  }
+}
+.e-mail{
+  padding: 30px 0;
+}
+iframe{
+  border: 0;
+  width: 52%;
+  height: 600px;
+  transform:translate(0px, -170px) ;
+}
+
+
+
 
